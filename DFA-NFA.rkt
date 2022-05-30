@@ -1,5 +1,4 @@
 #lang racket
-;lab04
 
 ;DFA
 (define (DFA input Sigma S s0 delta F)
