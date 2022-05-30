@@ -1,5 +1,5 @@
 #lang racket
-
+;DFA-NFA
 ;DFA
 (define (DFA input Sigma S s0 delta F)
   (define (invalidState? state S)
