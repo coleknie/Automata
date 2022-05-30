@@ -1,5 +1,5 @@
 #lang racket
-;Lab06
+;PDA
 
 (define-struct State (stack cur_state input))
 (define (finalstate? s0 F)
