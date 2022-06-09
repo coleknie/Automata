@@ -1,5 +1,5 @@
 # Automata
-Racket implementation of Automata:
+A Racket implementation of Automata as functions:
 
 DFA-NFA.rkt includes both Deterministic finite automaton (DFA) and Nondeterministic finite automaton (NFA)
 
